@@ -1,7 +1,6 @@
 //. Ejercicio 2.
 // Declaracion de variables
 
-
 const a = 4;
 const b = 7;
 const c = 2 * b;
