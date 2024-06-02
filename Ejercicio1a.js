@@ -9,3 +9,4 @@ console.log(sueldo < 2000 || antiguedad <10);
 
 console.log("iii. ¿El sueldo es mayor o igual a $2000?");
 console.log(sueldo >=  2000)
+
