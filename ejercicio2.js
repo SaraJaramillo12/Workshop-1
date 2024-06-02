@@ -33,7 +33,7 @@ console.log("2c. El resultado de la operacion es: ", resultado);
 //Ejercicio 2d
 
 resultado3 = x / y * (z + w);
-console.log("2d. El resultado de la operación x / y * (z + w) es ", resultado3);
+console.log("2d. El resultado de la operación x / y * (z + w) es: ", resultado3);
 
 
 
