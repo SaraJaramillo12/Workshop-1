@@ -1,3 +1,5 @@
+//Workshop 1
+
 let sueldo = 1800;
 let antiguedad = 12;
 
